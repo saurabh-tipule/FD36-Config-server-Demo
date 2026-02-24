@@ -1,5 +1,5 @@
 server:
-  port: 9093   # Custom Port
+  port: 8085   # Custom Port
 
 spring:
   datasource:
