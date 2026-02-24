@@ -1,4 +1,4 @@
-msg: Welcome To Cart-Service Microservice
+msg: Welcome To Cart-Service Microservice REST_API
 
 server:
   port: 9092
