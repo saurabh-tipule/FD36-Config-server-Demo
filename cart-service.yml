@@ -1,6 +1,6 @@
 msg: Welcome To Cart-Service
 
 server:
-  port: 9091
+  port: 9092
 
   
