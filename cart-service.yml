@@ -1,4 +1,4 @@
-msg: Welcome To Cart-Service
+msg: Welcome To Cart-Service Microservice
 
 server:
   port: 9092
